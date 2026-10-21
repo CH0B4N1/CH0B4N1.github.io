@@ -1,1 +1,4 @@
-# CH0B4N1.github.io
+# WELCOME
+
+# Introduction
+I'm Sawyer, a current senior studying Computer Science and Information Security.
